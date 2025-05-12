@@ -3,7 +3,6 @@ I am an IT Technician and currently studying Computer Science at Universidade Ve
 💡 Skills:
 <br>✔ Computer assembly and maintenance<br>
 <br>✔ Programming (Python, C++, Java, JavaScript, Node.js, Django)<br>
-<br>✔ Computer networks<br>
 <br>✔ Web development (HTML, CSS, JavaScript, React, Vite)<br>
 <br>✔ Basic knowledge of databases with MySQL<br>
 <br>✔ Computer networks and fundamentals of information security <br>
