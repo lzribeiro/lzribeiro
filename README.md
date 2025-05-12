@@ -1,4 +1,13 @@
-<h2 align="left">📍 Técnico em Informática | 🎓 Graduando em Ciência da Computação | 🚀 Apaixonado por Tecnologia<br><br>Sou Técnico em Informática e atualmente estou cursando Ciência da Computação na Universidade Veiga de Almeida. Tenho uma grande paixão por tecnologia, resolução de problemas e inovação.<br><br>💡 Habilidades:<br>✔ Montagem e manutenção de computadores<br>✔ Programação (Python, C++, Java, JavaScript, Node.js, Django)<br>✔ Redes de computadores<br>✔ Desenvolvimento Web (HTML, CSS, JavaScript, React, Vite<br>✔ Noções de banco de dados com MySQL<br>✔ Redes de computadores e fundamentos de segurança da informação <br>✔ Pacote Office (Word, Excel, PowerPoint)</h2>
+<h2 align="left">📍 📍 IT Technician | 🎓 Computer Science Undergraduate | 🚀 Passionate About Technology
+I am an IT Technician and currently studying Computer Science at Universidade Veiga de Almeida. I have a great passion for technology, problem-solving, and innovation.<br><br>
+💡 Skills:
+<br>✔ Computer assembly and maintenance<br>
+<br>✔ Programming (Python, C++, Java, JavaScript, Node.js, Django)<br>
+<br>✔ Computer networks<br>
+<br>✔ Web development (HTML, CSS, JavaScript, React, Vite)<br>
+<br>✔ Basic knowledge of databases with MySQL<br>
+<br>✔ Computer networks and fundamentals of information security <br>
+<br>✔ Office Suite (Word, Excel, PowerPoint)</h2>
 
 ###
 
