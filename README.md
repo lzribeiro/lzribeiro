@@ -1,4 +1,4 @@
-<h2 align="left">📍 📍 IT Technician | 🎓 Computer Science Undergraduate | 🚀 Passionate About Technology
+<h2 align="left">📍 IT Technician | 🎓 Computer Science Undergraduate | 🚀 Passionate About Technology
 I am an IT Technician and currently studying Computer Science at Universidade Veiga de Almeida. I have a great passion for technology, problem-solving, and innovation.<br><br>
 💡 Skills:
 <br>✔ Computer assembly and maintenance<br>
