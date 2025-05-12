@@ -1,4 +1,4 @@
-<h2 align="left">📍 Técnico em Informática | 🎓 Graduando em Ciência da Computação | 🚀 Apaixonado por Tecnologia<br><br>Sou Técnico em Informática e atualmente estou cursando Ciência da Computação na Universidade Veiga de Almeida. Tenho uma grande paixão por tecnologia, resolução de problemas e inovação.<br><br>💡 Habilidades:<br>✔ Montagem e manutenção de computadores<br>✔ Programação (Django, C++)<br>✔ Redes de computadores<br>✔ HTML, CSS<br>✔ Pacote Office<br>✔ Trabalho em equipe e proatividade</h2>
+<h2 align="left">📍 Técnico em Informática | 🎓 Graduando em Ciência da Computação | 🚀 Apaixonado por Tecnologia<br><br>Sou Técnico em Informática e atualmente estou cursando Ciência da Computação na Universidade Veiga de Almeida. Tenho uma grande paixão por tecnologia, resolução de problemas e inovação.<br><br>💡 Habilidades:<br>✔ Montagem e manutenção de computadores<br>✔ Programação (Python, C++, Java, JavaScript, Node.js, Django)<br>✔ Redes de computadores<br>✔ Desenvolvimento Web (HTML, CSS, JavaScript, React, Vite<br>✔ Noções de banco de dados com MySQL<br>✔ Redes de computadores e fundamentos de segurança da informação</h2>
 
 ###
 
