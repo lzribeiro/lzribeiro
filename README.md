@@ -1,12 +1,15 @@
-<h2 align="left">📍 IT Technician | 🎓 Computer Science Undergraduate | 🚀 Passionate About Technology
-I am an IT Technician and currently studying Computer Science at Universidade Veiga de Almeida. I have a great passion for technology, problem-solving, and innovation.<br><br>
+<h2 align="left">📍 IT Technician | 🔐 Cybersecurity and Infrastructure Enthusiast | 💻 Passionate About Technology  
+I am an IT Technician passionate about cybersecurity, network infrastructure, and leveraging technology to solve real-world challenges. I’m constantly seeking to expand my skills through hands-on practice, challenges, and continuous learning.<br><br>
+
 💡 Skills:
 <br>✔ Computer assembly and maintenance<br>
-<br>✔ Programming (Python, C++, Java, JavaScript, Node.js, Django)<br>
-<br>✔ Web development (HTML, CSS, JavaScript, React, Vite)<br>
-<br>✔ Basic knowledge of databases with MySQL<br>
-<br>✔ Computer networks and fundamentals of information security <br>
-<br>✔ Office Suite (Word, Excel, PowerPoint)</h2>
+<br>✔ Programming (Python, C++, JavaScript)<br>
+<br>✔ Web development (HTML, CSS, JavaScript, React, Django)<br>
+<br>✔ Basic database knowledge (MySQL)<br>
+<br>✔ Computer networks and information security practices<br>
+<br>✔ Office Suite (Word, Excel, PowerPoint)<br>
+<br>✔ Familiarity with standards and frameworks like ISO 27001, ITIL, GDPR, and COBIT
+</h2>
 
 ###
 
