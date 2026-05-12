@@ -1,5 +1,4 @@
-<h2 align="left">📍 IT Technician | 🔐 Cybersecurity and Infrastructure Enthusiast | 💻 Passionate About Technology  
-I am an IT Technician passionate about cybersecurity, network infrastructure, and leveraging technology to solve real-world challenges. I’m constantly seeking to expand my skills through hands-on practice, challenges, and continuous learning.<br><br>
+<h2 align="left">💻 IT Technician | 🔐 Cybersecurity & Infrastructure Enthusiast | 🚀 Passionate About Technology<br><br>
 
 💡 Skills:
 <br>✔ Computer assembly and maintenance<br>
